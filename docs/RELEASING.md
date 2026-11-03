@@ -1,3 +1,10 @@
+<!--
+SPDX-FileCopyrightText: Donovan Worrell
+
+SPDX-License-Identifier: Apache-2.0
+Catalyst-File-ID: urn:uuid:610c5460-1b56-4281-a57e-446e39223d30
+-->
+
 # Releasing
 
 This repository follows [Catylist ADR-0013](https://github.com/dlworrell/Catylist/blob/main/docs/adr/ADR-0013-daily-fitment-and-release-branches.md):
